@@ -178,20 +178,3 @@ h2 {
      -webkit-box-shadow: 0 0 10px #ccc;
      box-shadow: 0 0 50px #ccc;
     }
-
-.weekends {
-  background-image: url("city.jpg");
-  background-size: contain;
-  opacity: 0.8;
-  text-align: center;
-  margin-right: 50px;
-  margin-left:0px;
-  width: 98.5%;
-  height: 100px;
-  color: white;
-  font-size: 20px;
-  border-radius: 20px;
-  margin-bottom: 16px;
-  padding: 10px;
-  line-height: 60px;
-}
