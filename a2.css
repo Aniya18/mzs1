@@ -1,0 +1,197 @@
+html {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  perspective: 1px;
+  transform-style: preserve-3d;
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.T {
+  background-image: url("city.jpg");
+  min-height: 50vh;
+  padding: 0vw 0 0vw;
+  position: relative;
+  transform-style: inherit;
+  width: 100vw;
+  height: 20%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.6;
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: white;
+  font-family: arial black;
+  background-size: cover;
+  height: 250px;
+  margin-bottom: 16px;
+  padding-top: 40px;
+  padding-left: 350px;
+  padding-right: 250px;
+  display: inline-block;
+  line-height: 280px;
+  letter-spacing: 0.2em;
+  min-height: 30vh;
+  position: relative;
+  transform-style: inherit;
+}
+
+.space1 {
+  margin: 30px;
+}
+
+h2 {
+  font-family: impact;
+}
+
+.research {
+    width: 550px;
+    height: 250px;
+    background: url("research.jpg") no-repeat;
+  }
+
+.research:hover {
+     -moz-box-shadow: 0 0 500px #ccc;
+     -webkit-box-shadow: 0 0 10px #ccc;
+     box-shadow: 0 0 50px #ccc;
+    }
+
+.research {
+  background-image: url("research.jpg");
+  background-size: cover;
+  opacity: 0.9;
+  text-align: center;
+  width: 550px;
+  height: 250px;
+  color: white;
+  font-size: 20px;
+  margin-bottom: 25px;
+  margin-left: 55px;
+  margin-right: 15px;
+  padding: 10px;
+  display: inline-block;
+  line-height: 225px;
+  letter-spacing: 0.2em;
+  min-height: 30vh;
+  position: relative;
+  transform-style: inherit;
+}
+
+.meetings {
+  background-image: url("meeting.jpg");
+  text-align: center;
+  width: 550px;
+  height: 250px;
+  color: white;
+  font-size: 20px;
+  margin-bottom: 25px;
+  margin-left: 15px;
+  padding: 10px;
+  display: inline-block;
+  line-height: 225px;
+  letter-spacing: 0.2em;
+}
+
+.meetings {
+    width: 550px;
+    height: 250px;
+    background: url("meeting.jpg") no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+  }
+
+.meetings:hover {
+     -moz-box-shadow: 0 0 500px #ccc;
+     -webkit-box-shadow: 0 0 10px #ccc;
+     box-shadow: 0 0 50px #ccc;
+    }
+
+.google {
+  background-image: url("google.jpg");
+  text-align: center;
+  width: 550px;
+  height: 250px;
+  color: white;
+  font-size: 20px;
+  margin-bottom: 25px;
+  margin-left: 55px;
+  margin-right: 15px;
+  padding: 10px;
+  display: inline-block;
+  line-height: 225px;
+  letter-spacing: 0.2em;
+  min-height: 30vh;
+  position: relative;
+  transform-style: inherit;
+}
+
+.google {
+    width: 550px;
+    height: 250px;
+    background: url("google.jpg") no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+  }
+
+.google:hover {
+     -moz-box-shadow: 0 0 500px #ccc;
+     -webkit-box-shadow: 0 0 10px #ccc;
+     box-shadow: 0 0 50px #ccc;
+    }
+
+.coding {
+  background-image: url("code.jpg");
+  text-align: center;
+  width: 550px;
+  height: 250px;
+  color: white;
+  font-size: 20px;
+  margin-bottom: 25px;
+  margin-left: 15px;
+  padding: 10px;
+  display: inline-block;
+  line-height: 225px;
+  letter-spacing: 0.2em;
+}
+
+.coding {
+    width: 550px;
+    height: 250px;
+    background: url("code.jpg") no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+  }
+
+.coding:hover {
+     -moz-box-shadow: 0 0 500px #ccc;
+     -webkit-box-shadow: 0 0 10px #ccc;
+     box-shadow: 0 0 50px #ccc;
+    }
+
+.weekends {
+  background-image: url("city.jpg");
+  background-size: contain;
+  opacity: 0.8;
+  text-align: center;
+  margin-right: 50px;
+  margin-left:0px;
+  width: 98.5%;
+  height: 100px;
+  color: white;
+  font-size: 20px;
+  border-radius: 20px;
+  margin-bottom: 16px;
+  padding: 10px;
+  line-height: 60px;
+}
